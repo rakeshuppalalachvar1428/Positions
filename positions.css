@@ -1,0 +1,235 @@
+.container{ 
+    display: inline-block;
+    border:2px solid white;
+    height: auto;
+    width: 100%;
+    padding: 0%;
+    margin-left: 5px; 
+    margin-right: 5px;
+    position: relative;
+}
+.container span{
+    display: inline-block;
+    /* width: fit-content; */
+    padding:10px
+}
+.Pro{
+    border-bottom: 1px solid #ccc !important;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.container h1{
+    /* background-color: black; */
+    color: white;
+    font-family: Verdana,sans-serif;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    letter-spacing: 4px;
+
+}
+.container span{
+    background-color: rgb(65, 64, 64);
+    font-family: Verdana,sans-serif;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+.container2{ 
+    display: inline-block;
+    border:2px solid white;
+    height: auto;
+    padding-left: 60px;
+    padding-right: 5px;
+    margin-left: 5px; 
+    margin-right: 5px;
+    position: relative;
+}
+/*this is child container*/
+.child1{
+    display: inline-block;
+    border: 2px solid white;
+    height: auto;
+    width: auto;
+    margin-left: 5px; 
+    margin-right: 0px;
+
+}
+.subchild1{
+    display: inline-block;
+    border: 2px solid white;
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+
+
+.subchild1 img{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+.subchild2{
+    display: inline-block;
+    border: 2px solid white;
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+.subchild3{
+    display: inline-block;
+    border: 2px solid white;
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+.subchild4{
+    display: inline-block;
+    border: 2px solid white;
+    height: 200px;
+    width: 300px;
+    position: relative;
+}
+.subchild1 h3{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    position:absolute;
+    padding: 10px;
+    margin: 0px;
+    top: 0%;    
+}
+.subchild2 h3{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    position:absolute;
+    padding: 10px;
+    margin: 0px;
+    top: 0%;    
+}
+.subchild3 h3{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    position:absolute;
+    padding: 10px;
+    margin: 0px;
+    top: 0%;    
+}
+.subchild4 h3{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    position:absolute;
+    padding: 10px;
+    margin: 0px;
+    top: 0%;    
+}
+.child2{
+    display: inline-block;
+    border: 2px solid white;
+    height: auto;
+    width: auto;
+    margin-left: 5px; 
+    margin-right: 0px;
+
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box1{
+    display: inline-block;
+    border: 2px solid white;
+    height: auto;
+    width: auto;
+    margin-top: 30px;
+    margin-left: 70px; 
+    margin-right: 30px;
+
+}
+.subbox1{
+    display: inline-block;
+    border: solid 2px white;
+    height: auto;
+    width:300px;
+    /* margin-top: 200px; */
+    margin-right: 10px;
+    position: relative;
+}
+.subbox1 h2{
+    display: inline-block;
+    position: inherit;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.box1 h4{
+    color: #7f7a7a;
+     font-family: "Segoe UI", Arial, sans-serif;
+}
+.box1 p{
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 15px;
+    color: black;
+    margin-bottom: 10px;
+}
+.box1 button{
+    width: 300px;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    border: #ccc;
+    padding: 5px;
+}
+.Contact{
+    display: inline-block;
+    border:2px solid white;
+    width: 1000px;
+    height: auto;
+    margin-left: 63px;
+    /* margin: 0; */
+   
+}
+.Contact p{
+    margin: 0;
+    margin-bottom: 20px;
+}
+.text{
+    display: inline-block;
+    width: 1200px;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 10px;
+    padding: 8px;
+}
+.button1{
+    /* width: 300px; */
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    border-color:black;
+    color: white;
+    background-color: black;
+    padding: 7px;
+    margin-left: 75px;
+    margin-bottom: 20px;
+    
+}
+.img2{ 
+    display: inline-block;
+    border:2px solid white;
+    height: auto;
+    width: 100%;
+    padding: 0%;
+    margin-left: 10px; 
+    margin-right: 10px;
+    position: relative;
+}
